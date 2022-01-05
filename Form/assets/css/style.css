@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(200, 240, 255);
+}
+.main{
+    width: 62.5%;
+    margin-left: 275px;
+    background-color: white;
+}
+h1{
+    margin-left: 37%;
+}
+button{
+    margin-left: 45%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: rgb(108, 108, 255);
+    height: 30px;
+}
+.salam{
+    margin-left: 50px;
+}
